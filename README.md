@@ -6,7 +6,7 @@ O id_produto deve ser utilizado como chave-primaria;
 Após a criação insira cinco produtos, todos devem ter seus respectivos campos preenchidos;
 Verifique se todos os dados foram inseridos; Ao término inicie a segunda etapa.
 
-![produto](produto)
+![produto](produto.jpg)
 
 
 
