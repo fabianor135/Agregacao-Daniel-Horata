@@ -8,7 +8,7 @@ Após a criação insira cinco produtos, todos devem ter seus respectivos campos
 Verifique se todos os dados foram inseridos;
 Ao término inicie a segunda etapa.
 
-![imagem 1](imagem1.jpg)
+![imagem 1](imagem 1.jpg)
 
 
 
