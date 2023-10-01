@@ -9,6 +9,6 @@ Verifique se todos os dados foram inseridos;
 Ao término inicie a segunda etapa.
 
 ![imagem 1](imagem1.jpg)
-
+![imagem 2](imagem2.jpg)
 
 
