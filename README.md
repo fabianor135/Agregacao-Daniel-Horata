@@ -12,11 +12,17 @@ Ao término inicie a segunda etapa.
 ![imagem 2](imagem2.jpg)
 
 ETAPA 2:
+
 a)Gere um relatório informando quantos produtos estão cadastrados;
+
 ![imagem 3](imagem3.jpg)
+
 b) Gere um relatório informando o preço médio dos produtos;
+
 ![imagem 4](imagem4.jpg)
+
 c)Selecione a média dos preços dos produtos em 2 grupos: perecíveis e não perecíveis;
+
 ![imagem 5](imagem5.jpg)
 
 
