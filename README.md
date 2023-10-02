@@ -9,19 +9,39 @@ Após a criação insira cinco produtos, todos devem ter seus respectivos campos
 Verifique se todos os dados foram inseridos;
 Ao término inicie a segunda etapa.
 
-![imagem 1](imagem1.jpg)
-![imagem 2](imagem2.jpg)
+![imagem1](imagem1.jpg)
+![imagem2](imagem2.jpg)
 
 ETAPA 2:
 
 a)Gere um relatório informando quantos produtos estão cadastrados;
-![imagem 3](imagem3.jpg)
+![imagem3](imagem3.jpg)
 
 b) Gere um relatório informando o preço médio dos produtos;
-![imagem 4](imagem4.jpg)
+![imagem4](imagem4.jpg)
 
 c)Selecione a média dos preços dos produtos em 2 grupos: perecíveis e não perecíveis;
-![imagem 5](imagem5.jpg)
+![imagem5](imagem5.jpg)
+
+d)Selecione a média dos preços dos produtos agrupados pelo nome do produto;
+![imagem6](imagem6.jpg)
+
+e)Selecione a média dos preços e total em estoque dos produtos;
+![imagem7](imagem7.jpg)
+
+f)Selecione o nome, marca e quantidade em estoque do produto mais caro;
+![imagem8](imagem8.jpg)
+
+g)Selecione os produtos com preço acima da média;
+![imagem9](imagem9.jpg)
+
+h)Selecione a quantidade de produtos de cada nacionalidade;
+![imagem10](imagem10.jpg)
+
+ETAPA 3:
+Execute toda a atividade no WorkBench da Oracle;
+
+
 
 
 
