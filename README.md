@@ -1,5 +1,6 @@
 # EXERCÍCIO 1/3
 ETAPA 1:
+
 Crie uma tabela Produtos com os seguintes itens id_produto; nome; preço; estoque; perecível; marca; nacionalidade;
 Atribua a cada campo seu respectivo tipo;
 Os itens: nome; preço; estoque; perecível não poderão receber valores nulos;
